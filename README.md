@@ -1,6 +1,4 @@
-Answers to assignment 1 week two
-Sure, I can guide you through the steps for setting up your developer environment for a software engineering project. Here's a detailed breakdown of each task and how you can accomplish it.
-
+Answers 
 ## Task 1: Select Your Operating System (OS)
 ### Step 1: Download and Install Windows 11
 1. Visit the [Windows 11 Download Page](https://www.microsoft.com/software-download/windows11).
